@@ -38,47 +38,47 @@ function syuukei(){
 
 	if(point==110){//pointが110だった時以下を実行
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.3。\n感覚ゲームにご招待。");//アラートであなたの好きなゲームがわかりました。ゲームNo.3。感覚ゲームにご招待。と表示する。
-		location.href="game3.html"; //game3.htmlへリンクを飛ばす
+		location.href="TimingGame.html"; //game3.htmlへリンクを飛ばす
 	}
 	if(point==109){
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.3。\n感覚ゲームにご招待。");
-		location.href="game3.html";
+		location.href="TimingGame.html";
 	}
 	if(point==108){
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.1。\n早押しゲームにご招待。");
-		location.href="game1.html";
+		location.href="FastFushingGame.html";
 	}
 	if(point==107){
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.1。\n早押しゲームにご招待。");
-		location.href="game1.html";
+		location.href="FastFushingGame.html";
 	}
 	if(point==106){
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.1。\n早押しゲームにご招待。");
-		location.href="game1.html";
+		location.href="FastFushingGame.html";
 	}
 	if(point==105){
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.4。\nオセロゲームにご招待。");
-		location.href="game4.html";
+		location.href="OseroGame.html";
 	}
 	if(point==104){
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.4。\nオセロゲームにご招待。");
-		location.href="game4.html";
+		location.href="OseroGame.html";
 	}
 	if(point==103){
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.4。\nオセロゲームにご招待。");
-		location.href="game4.html";
+		location.href="OseroGame.html";
 	}
 	if(point==102){
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.2。\nパズルゲームにご招待。");
-		location.href="game2.html";
+		location.href="JigsawPuzzle.html";
 	}
 	if(point==101){
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.2。\nパズルゲームにご招待。");
-		location.href="game2.html";
+		location.href="JigsawPuzzle.html";
 	}
 	if(point==100){
 		alert("あなたの好きなゲームがわかりました。\nゲームNo.2。\nパズルゲームにご招待。");
-		location.href="game2.html";
+		location.href="JigsawPuzzle.html";
 	}
 
   if(point<99){alert("選択されていない項目があります。\n全ての項目に回答してください。");}//pointが99以下であった時、選択されていない項目があります。全ての項目に回答してください。とアラートで表示。
